@@ -7,5 +7,5 @@ At the rising edge of the clock:
 If rst is high, dout is reset to 0.
 
 If rst is low, dout takes the value of din.
-UVM  D-Flipflop
-![image](https://github.com/user-attachments/assets/46403e0a-bd65-4026-87ff-33552095760e)
+
+![image](https://github.com/user-attachments/assets/44aff8a3-e90c-47e4-8be2-b1660d44cc8c)
