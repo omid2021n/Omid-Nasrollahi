@@ -8,4 +8,4 @@ If rst is high, dout is reset to 0.
 
 If rst is low, dout takes the value of din.
 
-![image](https://github.com/user-attachments/assets/44aff8a3-e90c-47e4-8be2-b1660d44cc8c)
+![image](https://github.com/user-attachments/assets/c2c77de7-acc2-4f61-a18f-0845529e8843)
